@@ -1,0 +1,25 @@
+{
+  "name": "solidityprojectrunner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z2zone/SolidityProjectRunner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/z2zone/SolidityProjectRunner/issues"
+  },
+  "homepage": "https://github.com/z2zone/SolidityProjectRunner#readme",
+  "dependencies": {
+    "ganache-cli": "^6.12.2",
+    "mocha": "^9.1.1",
+    "solc": "^0.4.17",
+    "web3": "^1.3.5"
+  }
+}
